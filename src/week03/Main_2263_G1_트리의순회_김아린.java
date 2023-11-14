@@ -1,66 +1,62 @@
 package week03;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 public class Main_2263_G1_트리의순회_김아린 {
-	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-    static StringBuilder sb = new StringBuilder();
-    static StringTokenizer st; 
-    static int N, inOrder[], postOrder[];
-    
-    static void init() {
-    	inOrder = new int[N];
-    	postOrder = new int[N];
+    static class Node {
+        int value;
+        Node left;
+        Node right;
+
+        public Node() {
+        }
     }
-    
-    static void input() throws IOException{
-    	N = Integer.parseInt(br.readLine());
-    	init();
-    	
-    	st = new StringTokenizer(br.readLine());
-    	for(int i = 0; i < N; i++) {
-    		inOrder[i] = Integer.parseInt(st.nextToken());
-    	}
-    	st = new StringTokenizer(br.readLine());
-    	for(int i = 0; i < N; i++) {
-    		postOrder[i] = Integer.parseInt(st.nextToken());
-    	}
-    }   
-    
-    static void solve() {
-    	makePreOrder(0, N - 1, 0, N - 1);
+
+    static Node root;
+    static int[] in, post;
+    public static void main(String[] args) throws Exception{
+    	//어려워...
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int N = Integer.parseInt(br.readLine());
+        StringTokenizer st = null;
+
+        root = null;
+        //인오더(중위순회)
+        st = new StringTokenizer(br.readLine());
+
+        in = new int[N+1];
+        for (int i = 1; i <= N; i++) {
+            in[Integer.parseInt(st.nextToken())] = i;
+        }
+
+        //포스트오더(후위순회)
+        post = new int[N+1];
+        st = new StringTokenizer(br.readLine());
+        for (int i = 1; i <= N; i++) {
+            post[i] = Integer.parseInt(st.nextToken());
+        }
+        findTree(1, N, 1, N);
+
+
+        //근데 중위와 후위순회를 같이 주는 이유가 뭘까????
+        // 전위 순회와 중위 순회를 알 때 후위 순회를 구할 수 있지만 전위 순회와 후위 순회를 알 때 중위 순회는 구할 수 없다.
     }
-    
-    static void makePreOrder(int in_start, int in_end, int post_start, int post_end) {
-    	if(in_start > in_end || post_start > post_end) return;
-    	
-    	int root = postOrder[post_end];
-    	sb.append(root).append(" ");    	
-    	
-    	int idx = in_start;
-    	
-    	while(inOrder[idx] != root && idx <= in_end) idx++;
-    	
-    	makePreOrder(in_start, idx - 1, post_start, post_start + idx - in_start - 1);
-    	makePreOrder(idx + 1, in_end, post_start + idx - in_start, post_end - 1);
+
+    private static void findTree(int leftIn, int rightIn, int leftPost, int rightPost) {
+        if(leftIn > rightIn || leftPost > rightPost) {
+            return;
+        }
+
+        int root = post[rightPost];
+        System.out.print(root + " ");
+        int idx = in[root];
+        int cnt = idx - leftIn;
+
+        //왼쪽 서브트리
+        findTree(leftIn, idx-1, leftPost, (leftPost+cnt) - 1);
+
+        //오른쪽 서브트리
+        findTree(idx+1, rightIn, leftPost + cnt, rightPost-1);
     }
-    
-	public static void main(String[] args) throws IOException{
-		input();
-		solve();
-        
-        bw.write(sb.toString());
-        bw.flush();
-        bw.close();
-        br.close();
-	}
 }
