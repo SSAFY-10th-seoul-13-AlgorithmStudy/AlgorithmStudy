@@ -56,6 +56,7 @@ public class Main_14476_G2_최대공약수하나빼기_김아린 {
             System.out.println(-1);
     }
 
+    //반복문으로 함 재귀도 있음 
     public static int gcd(int a, int b) {
         while (b != 0) {
             int temp = b;
