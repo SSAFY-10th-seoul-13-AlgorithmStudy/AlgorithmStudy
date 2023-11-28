@@ -57,7 +57,7 @@ public class Main_1451_G4_직사각형으로나누기_김태수 {
 				//ㅓ 형태로 자르기
 				rec1 = rec(1,1,j,i);
 				rec2 = rec(j+1,1,R,i);
-				rec3 = rec(i+1,1,R,C);
+				rec3 = rec(1,1+i,R,C);
 				maxValue = Math.max(maxValue, rec1*rec2*rec3);
 				//ㅏ 형태로 자르기
 				rec1 = rec(1,1,R,i);
