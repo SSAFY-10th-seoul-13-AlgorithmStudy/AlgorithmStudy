@@ -40,9 +40,6 @@ public class Main_1135_G2_뉴스전하기_강이규 {
         if (subLen == 0) return 1; // 리프 노드
 
         int minCost = subLen; // 가능한 cost의 최소값 : 부하들이 모두 리프 노드일 때
-
-        Collections.sort(adjList[cur], Comparator.reverseOrder()); // 오래 걸리는 것부터 돈다.
-
         Integer[] subCosts = new Integer[subLen];
 
 
@@ -50,9 +47,11 @@ public class Main_1135_G2_뉴스전하기_강이규 {
             int sub = adjList[cur].get(i);
             subCosts[i] = dfs(sub);
         }
-        Arrays.sort(subCosts, Collections.reverseOrder());
+
+        Arrays.sort(subCosts, Collections.reverseOrder()); // 오래 걸리는 쪽부터 돈다.
+
         for (int i = 0; i < subLen; i++) {
-            minCost = Math.max(minCost, subCosts[i] + i);
+            minCost = Math.max(minCost, subCosts[i] + i); // 같은 값이 있거나, 값에 비해 subLen이 매우 긴 반례 해결
         }
         return minCost + 1; // 자기 자신 포함
     }
