@@ -33,6 +33,7 @@ public class Main_21939_G4_문제추천시스템Version1_송윤재 {
 		}
 	}
 	
+	
 	static void init() {
 		set = new TreeSet<>();
 		map = new HashMap<>();
