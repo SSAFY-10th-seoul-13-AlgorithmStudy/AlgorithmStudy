@@ -6,7 +6,7 @@
  | BFS_DFS | 
  | BinarySearch | 
  | Bruteforce | 
- | DataStructure | 
+ | DataStructure |  0 | 0 | 0 | 0 |1 | 
  | Dijkstra | 
  | DivideAndConquer | 
  | DynamicProgramming | 
@@ -94,5 +94,16 @@ week05
  | 트리와쿼리 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | ㄷㄷㄷㅈ |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
  | 트리의지름 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
+</div></details>
+<br>
+<details>
+<summary>
+week06_DataStructure
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: | 
+ | 오아시스재결합 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  | 
 </div></details>
 <br>
