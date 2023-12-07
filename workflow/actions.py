@@ -33,9 +33,10 @@ Algorithm = [
     'UnionFind'
 ]
 
-
+file_path = os.path.abspath(__file__)
+BASE_DIR = os.path.dirname(file_path)
 def generateREADME():
-    with open("../README.md","w",encoding="UTF-8") as f:
+    with open("./README.md","w",encoding="UTF-8") as f:
         f.write("# ☘️ Algorithm For B ☘️\n") ##제목 쓰세요
         ## 원하는 본문 내용 있으면 추가해 주세요
         f.write("## 알고리즘별 분류 \n")
@@ -46,24 +47,25 @@ def generateREADME():
         week = getWeekData()
         for case in week.keys():
             f.write(createWeekToggle(week[case], case))
+        print("all records are up to date!")
 
 def getAlgoData():
     data = {}
-    for pathName in os.listdir("../src"):
+    for pathName in os.listdir(BASE_DIR+"/../src"):
         if len(pathName.split("_")) == 2:
             algo = pathName.split("_")[1]
             if(algo not in data): data[algo] = {}
-            for fileName in os.listdir("../src/" +pathName):
+            for fileName in os.listdir(os.path.join(BASE_DIR,"..","src",pathName)):
                 solver = fileName.split("_")[4].split(".")[0]
                 if solver not in data[algo]: data[algo][solver] = 1
                 else: data[algo][solver] += 1
-    print("data: " ,data)
+    #print("data: " ,data)
     return data
             
 
 
 def createAlgo(data):
-    print("create: ",data)
+    #print("create: ",data)
     line = '''| Algorithm | '''
     for user in users:
         line += user + ''' | '''
@@ -108,9 +110,10 @@ def getWeekData():
     count="1"
     data = {}
     #print(os.listdir("../src"))
-    for pathName in os.listdir("../src"):
+    #os.path.join(BASE_DIR,"..","src",pathName)
+    for pathName in os.listdir(os.path.join(BASE_DIR,"..","src")):
         data[pathName] = {}
-        fileList = os.listdir("../src/"+pathName)
+        fileList = os.listdir(os.path.join(BASE_DIR,"..","src",pathName))
             #print ("file_list: {}".format(fileList))
         for file in fileList:
             solve = file.split("_")
