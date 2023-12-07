@@ -36,7 +36,7 @@ Algorithm = [
 file_path = os.path.abspath(__file__)
 BASE_DIR = os.path.dirname(file_path)
 def generateREADME():
-    with open("./README.md","w",encoding="UTF-8") as f:
+    with open(os.path.join(BASE_DIR,"..","README.md"),"w",encoding="UTF-8") as f:
         f.write("# ☘️ Algorithm For B ☘️\n") ##제목 쓰세요
         ## 원하는 본문 내용 있으면 추가해 주세요
         f.write("## 알고리즘별 분류 \n")
@@ -113,6 +113,7 @@ def getWeekData():
     #os.path.join(BASE_DIR,"..","src",pathName)
     for pathName in os.listdir(os.path.join(BASE_DIR,"..","src")):
         data[pathName] = {}
+        print(os.path.join(BASE_DIR,"..","src",pathName))
         fileList = os.listdir(os.path.join(BASE_DIR,"..","src",pathName))
             #print ("file_list: {}".format(fileList))
         for file in fileList:
@@ -121,7 +122,4 @@ def getWeekData():
             data[pathName][solve[3]].append(solve[4].split(".")[0])
     return data
 
-# def fetch():
-#     while True:
-#         count = 
 generateREADME()
