@@ -6,7 +6,7 @@
  | BFS_DFS | 
  | BinarySearch | 
  | Bruteforce | 
- | DataStructure |  0 | 0 |1 |  0 |2 | 
+ | DataStructure |  0 | 0 |2 |  0 |2 | 
  | Dijkstra | 
  | DivideAndConquer | 
  | DynamicProgramming | 
@@ -78,6 +78,7 @@ week06_DataStructure
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 문제추천시스템Version1 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  | 
  | 오아시스재결합 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
+ | 문제추천시트템Version1 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
 </div></details>
 <br>
 <details>
