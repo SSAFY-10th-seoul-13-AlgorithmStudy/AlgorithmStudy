@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_G2_13334_철로_강이규 {
+public class Main_13334_G2_철로_강이규 {
 
     static int N, D;
     static int[][] arr; // 끝 지점 기준으로 정렬될 arr
