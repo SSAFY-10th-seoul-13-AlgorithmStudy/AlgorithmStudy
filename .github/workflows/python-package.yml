@@ -1,5 +1,5 @@
 name: Python application
-
+permissions: write-all
 on:
   push:
     branches: [main]
