@@ -6,7 +6,7 @@
  | BFS_DFS | 
  | BinarySearch | 
  | Bruteforce | 
- | DataStructure | 1 | 1 | 3 | 2 | 2 | 
+ | DataStructure | 1 | 2 | 3 | 2 | 2 | 
  | Dijkstra | 
  | DivideAndConquer | 
  | DynamicProgramming | 
@@ -48,7 +48,7 @@ week06_DataStructure
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | 문제추천시스템Version1 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
+ | 문제추천시스템Version1 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | 오아시스재결합 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
  | AC |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ❌  | 
  | 중앙값구하기 |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
