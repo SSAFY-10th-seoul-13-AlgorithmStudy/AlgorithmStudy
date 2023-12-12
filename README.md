@@ -6,7 +6,7 @@
  | BFS_DFS | 
  | BinarySearch | 
  | Bruteforce | 
- | DataStructure | 2 | 3 | 4 | 2 | 2 | 
+ | DataStructure | 2 | 3 | 4 | 2 | 3 | 
  | Dijkstra | 
  | DivideAndConquer | 
  | DynamicProgramming | 
@@ -51,7 +51,7 @@ week06_DataStructure
  | 문제추천시스템Version1 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | 싸지방에간준하 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ❌  | 
  | 오아시스재결합 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
- | AC |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ❌  | 
+ | AC |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 중앙값구하기 |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
 </div></details>
 <br>
