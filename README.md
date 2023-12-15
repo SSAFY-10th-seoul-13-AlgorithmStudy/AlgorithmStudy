@@ -9,7 +9,7 @@
  | DataStructure | 4 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
  | DivideAndConquer | 
- | DynamicProgramming | 
+ | DynamicProgramming |  0 | 0 | 0 |1 |  0 |
  | FloydWarshall | 
  | Greedy | 
  | Implematation | 
@@ -42,6 +42,17 @@ week03
 <br>
 <details>
 <summary>
+week07_DynamicProgramming
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: | 
+ | 양팔저울 |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
+</div></details>
+<br>
+<details>
+<summary>
 week02
 </summary>
 <div markdown="1">
@@ -66,17 +77,6 @@ week04
  | 색종이3 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | 최대공약수하나빼기 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | 직사각형으로나누기 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
-</div></details>
-<br>
-<details>
-<summary>
-week07_DP
-</summary>
-<div markdown="1">
-
- | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
- | :--: | :--: | :--: | :--: | :--: | :--: | 
- | 양팔저울 |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
 </div></details>
 <br>
 <details>
