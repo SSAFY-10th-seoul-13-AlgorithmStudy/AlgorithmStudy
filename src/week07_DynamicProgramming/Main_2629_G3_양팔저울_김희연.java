@@ -1,4 +1,4 @@
-package week07_DP;
+package week07_DynamicProgramming;
 
 import java.io.BufferedReader;
 import java.io.IOException;
