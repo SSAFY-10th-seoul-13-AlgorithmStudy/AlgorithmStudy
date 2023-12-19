@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main_20500_G5_이즈리얼여눈부터가네ㅈㅈ_김태수 {
+public class Main_20500_G5_Ezreal여눈부터가네ㅈㅈ_김태수 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
