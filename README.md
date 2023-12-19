@@ -9,7 +9,7 @@
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
  | DivideAndConquer | 
- | DynamicProgramming | 5 | 2 | 4 | 5 | 1 | 
+ | DynamicProgramming | 5 | 3 | 4 | 5 | 1 | 
  | FloydWarshall | 
  | Greedy | 
  | Implematation | 
@@ -48,7 +48,7 @@ week07_DynamicProgramming
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | 양팔저울 |  ✔️  |  ❌  |  ✔️  |  ✔️  |  ❌  | 
+ | 양팔저울 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ❌  | 
  | RGB거리2 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ❌  | 
  | 가장긴증가하는부분수열2 |  ✔️  |  ❌  |  ✔️  |  ✔️  |  ❌  | 
  | Ezreal여눈부터가네ㅈㅈ |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
