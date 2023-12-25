@@ -9,7 +9,7 @@
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
  | DivideAndConquer | 
- | DynamicProgramming | 5 | 5 | 5 | 5 | 5 | 
+ | DynamicProgramming | 5 | 5 | 6 | 5 | 5 | 
  | FloydWarshall | 
  | Greedy | 
  | Implematation | 
@@ -67,6 +67,17 @@ week02
  | 이중우선순위큐 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | 비숍 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | 크게만들기 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
+</div></details>
+<br>
+<details>
+<summary>
+week08_DynamicProgramming
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: | 
+ | 암호코드 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
 </div></details>
 <br>
 <details>
