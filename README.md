@@ -9,7 +9,7 @@
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
  | DivideAndConquer | 
- | DynamicProgramming | 5 | 8 | 8 | 5 | 7 | 
+ | DynamicProgramming | 5 | 8 | 8 | 6 | 7 | 
  | FloydWarshall | 
  | Greedy | 
  | Implematation | 
@@ -79,8 +79,8 @@ week08_DynamicProgramming
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 함께블록쌓기 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | ACMCraft |  ❌  |  ✔️  |  ❌  |  ❌  |  ❌  | 
+ | 암호코드 |  ❌  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | N포커 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
- | 암호코드 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
 </div></details>
 <br>
 <details>
