@@ -19,7 +19,7 @@
  | PrefixSum | 
  | SegmentTree | 
  | String | 
- | TopologySort | 
+ | TopologySort |  0 | 0 |1 |  0 | 0 |
  | Tree | 
  | Trie | 
  | TwoPointer | 
@@ -111,6 +111,17 @@ week06_DataStructure
  | 문제추천시스템Version1 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | AC |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 싸지방에간준하 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
+</div></details>
+<br>
+<details>
+<summary>
+week09_TopologySort
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: | 
+ | 선수과목 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
 </div></details>
 <br>
 <details>
