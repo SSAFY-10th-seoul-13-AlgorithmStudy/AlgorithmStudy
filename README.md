@@ -19,7 +19,7 @@
  | PrefixSum | 
  | SegmentTree | 
  | String | 
- | TopologySort |  0 | 0 |2 |  0 | 0 |
+ | TopologySort |  0 |1 | 2 |  0 | 0 |
  | Tree | 
  | Trie | 
  | TwoPointer | 
@@ -122,7 +122,7 @@ week09_TopologySort
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 음악프로그램 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
- | 선수과목 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
+ | 선수과목 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ❌  | 
 </div></details>
 <br>
 <details>
