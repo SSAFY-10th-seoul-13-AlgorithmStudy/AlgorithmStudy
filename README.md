@@ -19,7 +19,7 @@
  | PrefixSum | 
  | SegmentTree | 
  | String | 
- | TopologySort |  0 |3 | 4 |  0 |1 | 
+ | TopologySort |  0 |3 | 4 |  0 |2 | 
  | Tree | 
  | Trie | 
  | TwoPointer | 
@@ -124,7 +124,7 @@ week09_TopologySort
  | 음악프로그램 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ❌  | 
  | 클레어와물약 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
  | 선수과목 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
- | 작업 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ❌  | 
+ | 작업 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
 </div></details>
 <br>
 <details>
