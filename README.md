@@ -9,7 +9,7 @@
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
  | DivideAndConquer | 
- | DynamicProgramming | 9 | 9 | 9 | 10 | 10 | 
+ | DynamicProgramming | 10 | 9 | 9 | 10 | 10 | 
  | FloydWarshall | 
  | Greedy | 
  | Implematation | 
@@ -19,7 +19,7 @@
  | PrefixSum | 
  | SegmentTree | 
  | String | 
- | TopologySort |  0 |3 | 4 | 2 | 4 | 
+ | TopologySort | 3 | 3 | 4 | 2 | 4 | 
  | Tree | 
  | Trie | 
  | TwoPointer | 
@@ -80,7 +80,7 @@ week08_DynamicProgramming
  | 함께블록쌓기 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | N포커 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | ACMCraft |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
- | 햄최몇 |  ❌  |  ❌  |  ❌  |  ✔️  |  ✔️  | 
+ | 햄최몇 |  ✔️  |  ❌  |  ❌  |  ✔️  |  ✔️  | 
  | 암호코드 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
 </div></details>
 <br>
@@ -121,10 +121,10 @@ week09_TopologySort
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | 음악프로그램 |  ❌  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
+ | 선수과목 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
+ | 음악프로그램 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
  | 클레어와물약 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
- | 선수과목 |  ❌  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
- | 작업 |  ❌  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
+ | 작업 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
 </div></details>
 <br>
 <details>
