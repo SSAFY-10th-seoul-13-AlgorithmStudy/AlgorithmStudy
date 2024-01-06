@@ -2,7 +2,7 @@
 ## 알고리즘별 분류 
 | Algorithm | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | BackTracking |  0 | 0 | 0 | 0 |1 | 
+ | BackTracking |  0 | 0 | 0 |1 | 1 | 
  | BFS_DFS | 
  | BinarySearch | 
  | Bruteforce | 
@@ -34,7 +34,7 @@ week10_BackTracking
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | 넴모넴모Easy |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  | 
+ | 넴모넴모Easy |  ❌  |  ❌  |  ❌  |  ✔️  |  ✔️  | 
 </div></details>
 <br>
 <details>
