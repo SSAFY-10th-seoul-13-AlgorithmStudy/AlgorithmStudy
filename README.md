@@ -4,7 +4,7 @@
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | BackTracking | 2 | 3 | 3 | 5 | 5 | 
  | BFS_DFS | 
- | BinarySearch | 
+ | BinarySearch |  0 | 0 |1 |  0 | 0 |
  | Bruteforce | 
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
@@ -68,6 +68,17 @@ week07_DynamicProgramming
  | 트리의독립집합 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 가장긴증가하는부분수열2 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | Ezreal여눈부터가네ㅈㅈ |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
+</div></details>
+<br>
+<details>
+<summary>
+week11_BinarySearch
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: | 
+ | 공유기설치 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
 </div></details>
 <br>
 <details>
