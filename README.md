@@ -4,7 +4,7 @@
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | BackTracking | 2 | 3 | 3 | 5 | 5 | 
  | BFS_DFS | 
- | BinarySearch |  0 | 0 |2 |  0 | 0 |
+ | BinarySearch |  0 | 0 |2 | 1 |  0 |
  | Bruteforce | 
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
@@ -79,7 +79,7 @@ week11_BinarySearch
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 두배열의합 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
- | 공유기설치 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
+ | 공유기설치 |  ❌  |  ❌  |  ✔️  |  ✔️  |  ❌  | 
 </div></details>
 <br>
 <details>
