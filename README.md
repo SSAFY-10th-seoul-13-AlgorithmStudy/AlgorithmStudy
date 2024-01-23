@@ -4,7 +4,7 @@
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | BackTracking | 5 | 5 | 4 | 5 | 5 | 
  | BFS_DFS | 
- | BinarySearch | 3 | 3 | 3 | 3 | 2 | 
+ | BinarySearch | 3 | 3 | 3 | 3 | 3 | 
  | Bruteforce | 
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
@@ -81,7 +81,7 @@ week11_BinarySearch
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 두배열의합 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 냅색문제 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
- | 공유기설치 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ❌  | 
+ | 공유기설치 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
 </div></details>
 <br>
 <details>
