@@ -2,7 +2,7 @@
 ## 알고리즘별 분류 
 | Algorithm | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | BackTracking | 5 | 3 | 4 | 5 | 5 | 
+ | BackTracking | 5 | 4 | 4 | 5 | 5 | 
  | BFS_DFS | 
  | BinarySearch | 3 |  0 |3 | 3 | 1 | 
  | Bruteforce | 
@@ -39,7 +39,7 @@ week10_BackTracking
  | 무기공학 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 사다리조작 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 2048Easy |  ❌  |  ❌  |  ❌  |  ✔️  |  ✔️  | 
- | 2048easy |  ✔️  |  ❌  |  ❌  |  ❌  |  ❌  | 
+ | 2048easy |  ✔️  |  ✔️  |  ❌  |  ❌  |  ❌  | 
 </div></details>
 <br>
 <details>
