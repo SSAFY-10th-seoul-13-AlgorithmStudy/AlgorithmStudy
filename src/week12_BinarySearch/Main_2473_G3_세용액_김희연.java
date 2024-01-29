@@ -7,8 +7,8 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Main_2473_G3_세용액_김희연 {
-	static int[] arr;
-	static int[] liquid = new int[3];
+	static long[] arr;
+	static long[] liquid = new long[3];
 	static long max = Long.MAX_VALUE;
 
 	public static void main(String[] args) throws IOException {
@@ -17,7 +17,7 @@ public class Main_2473_G3_세용액_김희연 {
 
 		int n = Integer.parseInt(br.readLine());
 
-		arr = new int[n];
+		arr = new long[n];
 		st = new StringTokenizer(br.readLine());
 
 		for(int i=0; i<n; i++){
