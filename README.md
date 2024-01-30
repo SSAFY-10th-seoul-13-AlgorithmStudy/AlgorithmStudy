@@ -4,7 +4,7 @@
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | BackTracking | 5 | 5 | 5 | 5 | 5 | 
  | BFS_DFS | 
- | BinarySearch | 4 | 4 | 4 | 4 | 4 | 
+ | BinarySearch | 4 | 4 | 4 | 5 | 4 | 
  | Bruteforce | 
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
@@ -165,6 +165,7 @@ week12_BinarySearch
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 세용액 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
+ | 메탈 |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
 </div></details>
 <br>
 <details>
