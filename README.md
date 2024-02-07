@@ -5,7 +5,7 @@
  | BackTracking | 5 | 5 | 5 | 5 | 5 | 
  | BFS_DFS | 
  | BinarySearch | 5 | 5 | 5 | 5 | 5 | 
- | Bruteforce | 
+ | BruteForce | 2 |  0 |1 | 2 | 2 | 
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
  | DivideAndConquer | 
