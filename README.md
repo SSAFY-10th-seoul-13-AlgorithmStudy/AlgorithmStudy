@@ -5,7 +5,7 @@
  | BackTracking | 5 | 5 | 5 | 5 | 5 | 
  | BFS_DFS | 
  | BinarySearch | 5 | 5 | 5 | 5 | 5 | 
- | BruteForce | 2 |  0 |1 | 2 | 2 | 
+ | BruteForce | 2 | 1 | 1 | 2 | 2 | 
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
  | DivideAndConquer | 
@@ -152,7 +152,7 @@ week13_BruteForce
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 동전뒤집기 |  ✔️  |  ❌  |  ❌  |  ✔️  |  ✔️  | 
- | 종이조각 |  ✔️  |  ❌  |  ✔️  |  ✔️  |  ✔️  | 
+ | 종이조각 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
 </div></details>
 <br>
 <details>
