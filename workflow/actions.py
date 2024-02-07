@@ -12,7 +12,7 @@ Algorithm = [
     'BackTracking',
     'BFS_DFS',
     'BinarySearch',
-    'Bruteforce',
+    'BruteForce',
     'DataStructure',
     'Dijkstra',
     'DivideAndConquer',
