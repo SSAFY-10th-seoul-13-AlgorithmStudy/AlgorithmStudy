@@ -5,7 +5,7 @@
  | BackTracking | 5 | 5 | 5 | 5 | 5 | 
  | BFS_DFS | 
  | BinarySearch | 5 | 5 | 5 | 5 | 5 | 
- | BruteForce | 3 | 2 | 1 | 2 | 3 | 
+ | BruteForce | 3 | 2 | 2 | 2 | 3 | 
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
  | Dijkstra | 
  | DivideAndConquer | 
@@ -108,6 +108,7 @@ week13_BruteForce
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 동전뒤집기 |  ✔️  |  ✔️  |  ❌  |  ✔️  |  ✔️  | 
  | 종이조각 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
+ | 괄호추가하기 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
 </div></details>
 <br>
 <details>
