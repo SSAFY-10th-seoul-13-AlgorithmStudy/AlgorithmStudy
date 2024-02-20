@@ -1,4 +1,4 @@
-package week13_BruteForce;
+package week14_BruteForce;
 
 import java.io.BufferedReader;
 import java.io.IOException;
