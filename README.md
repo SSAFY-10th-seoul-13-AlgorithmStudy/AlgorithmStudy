@@ -22,7 +22,7 @@
  | TopologySort | 4 | 4 | 4 | 4 | 4 | 
  | Tree | 
  | Trie | 
- | TwoPointer | 
+ | TwoPointer |  0 | 0 | 0 | 0 |1 | 
  | UnionFind | 
 ## 주차별 풀이 상황 
 
@@ -53,6 +53,17 @@ week07_DynamicProgramming
  | 트리의독립집합 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 가장긴증가하는부분수열2 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 양팔저울 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
+</div></details>
+<br>
+<details>
+<summary>
+week15_TwoPointer
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: | 
+ | 보석쇼핑 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  | 
 </div></details>
 <br>
 <details>
