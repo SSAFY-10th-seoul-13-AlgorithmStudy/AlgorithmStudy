@@ -22,7 +22,7 @@
  | TopologySort | 4 | 4 | 4 | 4 | 4 | 
  | Tree | 
  | Trie | 
- | TwoPointer | 1 |  0 |1 |  0 |1 | 
+ | TwoPointer | 1 | 1 | 1 |  0 |1 | 
  | UnionFind | 
 ## 주차별 풀이 상황 
 
@@ -63,7 +63,7 @@ week15_TwoPointer
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | 보석쇼핑 |  ✔️  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
+ | 보석쇼핑 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
 </div></details>
 <br>
 <details>
