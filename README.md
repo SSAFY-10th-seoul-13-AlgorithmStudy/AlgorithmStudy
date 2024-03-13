@@ -54,6 +54,17 @@ week14_BruteForce
 <br>
 <details>
 <summary>
+week17_BFS_DFS
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: | 
+ | 거리두기확인하기 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  | 
+</div></details>
+<br>
+<details>
+<summary>
 week08_DynamicProgramming
 </summary>
 <div markdown="1">
