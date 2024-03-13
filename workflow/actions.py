@@ -8,6 +8,7 @@ users = [
     "김희연",
     "송윤재"
 ]
+
 Algorithm = [
     'BackTracking',
     'BFS_DFS',
@@ -52,8 +53,8 @@ def generateREADME():
 def getAlgoData():
     data = {}
     for pathName in os.listdir(BASE_DIR+"/../src"):
-        if len(pathName.split("_")) == 2:
-            algo = pathName.split("_")[1]
+        if len(pathName.split("_")) >= 2:
+            algo = ''.join(map(str,pathName.split("_")[1:]))
             if(algo not in data): data[algo] = {}
             for fileName in os.listdir(os.path.join(BASE_DIR,"..","src",pathName)):
                 solver = fileName.split("_")[4].split(".")[0]
