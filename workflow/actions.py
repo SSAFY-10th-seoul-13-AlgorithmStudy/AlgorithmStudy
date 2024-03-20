@@ -45,7 +45,7 @@ def generateREADME():
         f.write("## 주차별 풀이 상황 \n")
         
         week = getWeekData()
-        for case in week.keys():
+        for case in sorted(week.keys()):
             f.write(createWeekToggle(week[case], case))
         print("all records are up to date!")
 
@@ -55,7 +55,7 @@ def getAlgoData():
         if len(pathName.split("_")) >= 2:
             algo = ("_").join(pathName.split("_")[1:])
             # algo = pathName.split("_")[1]
-            print(algo)
+            #print(algo)
             if(algo not in data): data[algo] = {}
             for fileName in os.listdir(os.path.join(BASE_DIR,"..","src",pathName)):
                 solver = fileName.split("_")[4].split(".")[0]
