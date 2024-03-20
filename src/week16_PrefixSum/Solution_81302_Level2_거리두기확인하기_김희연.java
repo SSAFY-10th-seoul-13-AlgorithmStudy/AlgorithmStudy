@@ -1,4 +1,4 @@
-package week17_BFS_DFS;
+package week16_PrefixSum;
 
 public class Solution_81302_Level2_거리두기확인하기_김희연 {
 
