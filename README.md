@@ -16,7 +16,7 @@
  | KMP | 
  | LCA | 
  | MST | 
- | PrefixSum | 1 | 1 | 1 |  0 | 0 |
+ | PrefixSum | 1 | 1 | 1 |  0 |1 | 
  | SegmentTree | 
  | String | 
  | TopologySort | 4 | 4 | 4 | 4 | 4 | 
@@ -239,7 +239,7 @@ week16_PrefixSum
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | 파괴되지않은건물 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ❌  | 
+ | 파괴되지않은건물 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  | 
 </div></details>
 <br>
 <details>
