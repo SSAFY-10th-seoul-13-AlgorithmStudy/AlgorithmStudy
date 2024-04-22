@@ -7,7 +7,7 @@
  | BinarySearch | 5 | 5 | 5 | 5 | 5 | 
  | BruteForce | 4 | 4 | 4 | 4 | 4 | 
  | DataStructure | 5 | 5 | 5 | 5 | 5 | 
- | Dijkstra |  0 | 0 |1 |  0 | 0 |
+ | Dijkstra |  0 | 0 |1 |  0 |1 | 
  | DivideAndConquer | 
  | DynamicProgramming | 10 | 10 | 10 | 10 | 10 | 
  | FloydWarshall | 
@@ -273,7 +273,7 @@ week20_Dijkstra
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
- | 택시합승요금 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
+ | 택시합승요금 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
 </div></details>
 <br>
 <details>
