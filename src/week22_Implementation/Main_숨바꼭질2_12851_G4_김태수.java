@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.StringTokenizer;
 
-public class Main_숨바꼭질2_12851_김태수 {
+public class Main_숨바꼭질2_12851_G4_김태수 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
