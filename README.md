@@ -12,7 +12,7 @@
  | DynamicProgramming | 10 | 10 | 10 | 10 | 10 | 
  | FloydWarshall | 
  | Greedy | 2 | 1 | 2 |  0 |1 | 
- | Implementation | 1 |  0 |3 |  0 |1 | 
+ | Implementation | 1 |  0 |3 |  0 |2 | 
  | KMP | 
  | LCA | 
  | MST | 
@@ -298,6 +298,6 @@ week22_Implementation
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 배열돌리기2 |  ✔️  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
  | 구슬탈출2 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
- | 숨바꼭질2 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
+ | 숨바꼭질2 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
 </div></details>
 <br>
