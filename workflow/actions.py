@@ -7,7 +7,7 @@ users = [
     "김태수",
     "김희연",
     "송윤재",
-    "권송아🎊"
+    "권송아"
 ]
 Algorithm = [
     'BackTracking',
@@ -95,7 +95,7 @@ def createWeekToggle(data,week):
         for user in users:
             line += user
             line += " | "
-        line += '''\n | :--: | :--: | :--: | :--: | :--: | :--: | \n'''
+        line += '''\n | :--: | :--: | :--: | :--: | :--: | :--: |:--: | \n'''
         for problem in data:
             line += (" | " + problem + " | ")
             for user in users:
