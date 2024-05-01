@@ -72,7 +72,7 @@ def createAlgo(data):
     line = '''| Algorithm | '''
     for user in users:
         line += user + ''' | '''
-    line += '''\n | :--: | :--: | :--: | :--: | :--: | :--: | \n'''
+    line += '''\n | :--: | :--: | :--: | :--: | :--: | :--: |:--: | \n'''
     for algo in Algorithm:
         line += (" | " + algo + " | ")
         for user in users:
