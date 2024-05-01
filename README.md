@@ -12,7 +12,7 @@
  | DynamicProgramming | 10 | 10 | 10 | 10 | 10 | 
  | FloydWarshall | 
  | Greedy | 2 | 1 | 2 |  0 |1 | 
- | Implementation | 1 |  0 |3 |  0 |2 | 
+ | Implementation | 2 |  0 |3 |  0 |2 | 
  | KMP | 
  | LCA | 
  | MST | 
@@ -297,7 +297,7 @@ week22_Implementation
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 
  | :--: | :--: | :--: | :--: | :--: | :--: | 
  | 배열돌리기2 |  ✔️  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
+ | 숨바꼭질2 |  ✔️  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
  | 구슬탈출2 |  ❌  |  ❌  |  ✔️  |  ❌  |  ❌  | 
- | 숨바꼭질2 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  | 
 </div></details>
 <br>
