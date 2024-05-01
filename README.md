@@ -12,7 +12,7 @@
  | DynamicProgramming | 10 | 10 | 10 | 10 | 10 | 
  | FloydWarshall | 
  | Greedy | 2 | 1 | 2 |  0 |1 | 
- | Implematation | 
+ | Implementation | 1 |  0 |3 |  0 |1 | 
  | KMP | 
  | LCA | 
  | MST | 
