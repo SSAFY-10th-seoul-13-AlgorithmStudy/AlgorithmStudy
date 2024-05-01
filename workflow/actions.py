@@ -19,7 +19,7 @@ Algorithm = [
     'DynamicProgramming',
     'FloydWarshall',
     'Greedy',
-    'Implematation',
+    'Implementation',
     'KMP',
     'LCA',
     'MST',
