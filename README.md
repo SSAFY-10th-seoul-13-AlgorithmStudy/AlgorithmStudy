@@ -23,7 +23,7 @@
  | Tree | 
  | Trie | 
  | TwoPointer | 1 | 1 | 1 | 1 | 1 |  0 |
- | UnionFind | 
+ | UnionFind |  0 |1 |  0 | 0 | 0 | 0 |
 ## 주차별 풀이 상황 
 
 <details>
@@ -299,5 +299,16 @@ week22_Implementation
  | 숨바꼭질2 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 배열돌리기2 |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | 
  | 구슬탈출2 |  ❌  |  ❌  |  ✔️  |  ❌  |  ✔️  |  ✔️  | 
+</div></details>
+<br>
+<details>
+<summary>
+week23_UnionFind
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 권송아 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: |:--: | 
+ | 집합의표현 |  ❌  |  ✔️  |  ❌  |  ❌  |  ❌  |  ❌  | 
 </div></details>
 <br>
