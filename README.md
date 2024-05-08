@@ -20,10 +20,10 @@
  | SegmentTree | 
  | String | 
  | TopologySort | 4 | 4 | 4 | 4 | 4 |  0 |
- | Tree |  0 | 0 | 0 | 0 |1 |  0 |
+ | Tree | 
  | Trie | 
  | TwoPointer | 1 | 1 | 1 | 1 | 1 |  0 |
- | UnionFind |  0 |1 |  0 | 0 | 0 | 0 |
+ | UnionFind |  0 |1 |  0 | 0 |1 |  0 |
 ## 주차별 풀이 상황 
 
 <details>
@@ -303,23 +303,13 @@ week22_Implementation
 <br>
 <details>
 <summary>
-week23_Tree
-</summary>
-<div markdown="1">
-
- | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 권송아 | 
- | :--: | :--: | :--: | :--: | :--: | :--: |:--: | 
- | 트리 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
-</div></details>
-<br>
-<details>
-<summary>
 week23_UnionFind
 </summary>
 <div markdown="1">
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 권송아 | 
  | :--: | :--: | :--: | :--: | :--: | :--: |:--: | 
+ | 트리 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
  | 집합의표현 |  ❌  |  ✔️  |  ❌  |  ❌  |  ❌  |  ❌  | 
 </div></details>
 <br>
