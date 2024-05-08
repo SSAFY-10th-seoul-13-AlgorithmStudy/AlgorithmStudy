@@ -1,4 +1,4 @@
-package week23_Tree;
+package week23_UnionFind;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
