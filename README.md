@@ -11,7 +11,7 @@
  | DivideAndConquer | 
  | DynamicProgramming | 10 | 10 | 10 | 10 | 10 |  0 |
  | FloydWarshall | 
- | Greedy | 2 | 2 | 2 |  0 |2 |  0 |
+ | Greedy | 2 | 2 | 2 |  0 |3 |  0 |
  | Implementation | 2 | 2 | 3 | 3 | 3 | 3 | 
  | KMP | 
  | LCA | 
@@ -325,5 +325,16 @@ week24_MST
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 권송아 | 
  | :--: | :--: | :--: | :--: | :--: | :--: |:--: | 
  | 행성터널 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
+</div></details>
+<br>
+<details>
+<summary>
+week25_Greedy
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 권송아 | 
+ | :--: | :--: | :--: | :--: | :--: | :--: |:--: | 
+ | 방번호 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
 </div></details>
 <br>
