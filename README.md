@@ -11,7 +11,7 @@
  | DivideAndConquer | 
  | DynamicProgramming | 10 | 10 | 10 | 10 | 10 |  0 |
  | FloydWarshall | 
- | Greedy | 2 | 2 | 2 |  0 |3 |  0 |
+ | Greedy | 3 | 2 | 2 |  0 |3 |  0 |
  | Implementation | 2 | 2 | 3 | 3 | 3 | 3 | 
  | KMP | 
  | LCA | 
@@ -336,6 +336,6 @@ week25_Greedy
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 권송아 | 
  | :--: | :--: | :--: | :--: | :--: | :--: |:--: | 
- | 방번호 |  ❌  |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
+ | 방번호 |  ✔️  |  ❌  |  ❌  |  ❌  |  ✔️  |  ❌  | 
 </div></details>
 <br>
