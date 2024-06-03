@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public abstract class Main_13460_G1_구슬탈출2_강이규 {
+public class Main_13460_G1_구슬탈출2_강이규 {
 
     static class Pos {
         int r, c;
