@@ -21,36 +21,25 @@ public class Main_1082_G3_방번호_신문영 {
 		Number[] dp = new Number[m + 1];
 		dp[0] = new Number();
 		for (int i = 1; i < dp.length; i++) {
-			Number max = null;
+			
+			Number max = dp[i - 1];
 			for (int j = n - 1; j >= 0; j--) {
-				if (i - arr[j] >= 0 && m >= dp[i - arr[j]].getValue(arr) + arr[j]) {
-					Number operand = dp[i - arr[j]];
+				
+				if (i - arr[j] >= 0) {
 					
-					if (j != 0) {
-						while (i >= operand.getValue(arr) + arr[j]) {
-							operand = new Number(operand.addFirst(j));
-						}
-					} else {
-						while (i >= operand.getValue(arr) + arr[j]) {
-							operand = new Number(operand.addLast(j));
-							if (operand.queue.peek() == 0) break;
-						}
+					Number selection = dp[i - arr[j]];
+					while (i >= selection.getCost(arr) + arr[j]) {
+						selection = selection.concat(j);
+						if (selection.getFirstNumber() == 0) break;
 					}
-
-					if (max == null) {
-						max = Number.max(dp[i - 1], operand);
-					} else {
-						max = Number.max(max, Number.max(dp[i - 1], operand));
-					}
+					
+					max = Number.max(max, selection);
+					
 				}
+				
 			}
 			
-			if (max != null) {
-				dp[i] = new Number(max.queue);
-			}
-			else {
-				dp[i] = new Number(dp[i - 1].queue);
-			}
+			dp[i] = new Number(max.queue);
 		}
 		
 		System.out.println(dp[m]);
@@ -70,36 +59,31 @@ public class Main_1082_G3_방번호_신문영 {
 			}
 		}
 		
-		public Queue<Integer> addFirst(int i) {
+		public Number concat(int i) {
 			ArrayDeque<Integer> temp = new ArrayDeque<>();
 			for (int j : queue) {
 				temp.add(j);
 			}
 			
-			if ((i == 0 && temp.size() == 0) || (i != 0)) {
+			if (i != 0) {
 				temp.addFirst(i);
-			}
-			return temp;
-		}
-		
-		public Queue<Integer> addLast(int i) {
-			ArrayDeque<Integer> temp = new ArrayDeque<>();
-			for (int j : queue) {
-				temp.add(j);
+			} else {
+				if (temp.size() == 0 || (temp.size() > 0 && temp.peek() != 0)) {
+					temp.addLast(i);
+				}
 			}
 			
-			if (temp.size() == 0) {
-				temp.addLast(i);
-			} else if (temp.size() > 0 && temp.peek() != 0) {
-				temp.addLast(i);
-			}
-			return temp;
+			return new Number(temp);
 		}
 		
-		public int getValue(int[] valueMap) {
+		public int getFirstNumber() {
+			return queue.peek();
+		}
+		
+		public int getCost(int[] costMap) {
 			int sum = 0;
 			for (int i : queue) {
-				sum += valueMap[i];
+				sum += costMap[i];
 			}
 			return sum;
 		}
@@ -113,15 +97,15 @@ public class Main_1082_G3_방번호_신문영 {
 		}
 		
 		public static Number max(Number a, Number b) {
-			Number answer = null;
+			Number answer = a;
+			
+			if (a.queue.equals(b.queue)) return answer;
 			
 			if (a.queue.size() > b.queue.size()) {
 				answer = a;
 			} else if (a.queue.size() < b.queue.size()) {
 				answer = b;
 			} else {
-				if (a.queue.equals(b.queue)) return a;
-				
 				Queue<Integer> tempA = new ArrayDeque<>();
 				Queue<Integer> tempB = new ArrayDeque<>();
 				while (!a.queue.isEmpty()) {
@@ -153,9 +137,7 @@ public class Main_1082_G3_방번호_신문영 {
 				b.queue = tempB;
 			}
 			
-			if (answer == null) answer = b;
 			return answer;
 		}
 	}
-
 }
