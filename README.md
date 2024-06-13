@@ -12,7 +12,7 @@
  | DynamicProgramming | 10 | 10 | 10 | 10 | 10 |  0 |
  | FloydWarshall | 
  | Greedy | 3 | 3 | 3 |  0 |3 |  0 |
- | Implementation | 4 | 2 | 4 | 3 | 4 | 3 | 
+ | Implementation | 4 | 3 | 4 | 3 | 4 | 3 | 
  | KMP | 
  | LCA | 
  | MST | 3 |  0 |1 |  0 |2 |  0 |
@@ -358,7 +358,7 @@ week26_Implementation
 
  | 문제 | 강이규 | 김아린 | 김태수 | 김희연 | 송윤재 | 권송아 | 
  | :--: | :--: | :--: | :--: | :--: | :--: |:--: | 
- | 빗물 |  ✔️  |  ❌  |  ✔️  |  ❌  |  ✔️  |  ❌  | 
+ | 빗물 |  ✔️  |  ✔️  |  ✔️  |  ❌  |  ✔️  |  ❌  | 
 </div></details>
 <br>
 <details>
