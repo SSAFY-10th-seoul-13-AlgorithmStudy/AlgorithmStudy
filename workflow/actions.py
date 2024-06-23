@@ -13,7 +13,7 @@ algorithms = [
     'BackTracking', 'BFS_DFS', 'BinarySearch', 'BruteForce', 'DataStructure',
     'Dijkstra', 'DivideAndConquer', 'DynamicProgramming', 'FloydWarshall', 'Greedy',
     'Implementation', 'KMP', 'LCA', 'MST', 'PrefixSum', 'SegmentTree', 'String',
-    'TopologySort', 'Tree', 'Trie', 'TwoPointer', 'UnionFind'
+    'TopologySort', 'Tree', 'Trie', 'TwoPointer', 'UnionFind','Math'
 ]
 
 file_path = os.path.abspath(__file__)
