@@ -24,6 +24,7 @@
  | Trie | 1 | 1 | 1 | 1 | 1 | 
  | TwoPointer | 1 | 1 | 1 | 0 | 1 | 
  | UnionFind | 4 | 2 | 1 | 0 | 3 | 
+ | Math | 0 | 0 | 1 | 1 | 0 | 
 ## 주차별 풀이 상황 
 
 <details>
