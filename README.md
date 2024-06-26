@@ -12,7 +12,7 @@
  | DynamicProgramming | 11 | 11 | 10 | 1 | 11 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 3 | 3 | 3 | 1 | 3 | 
- | Implementation | 4 | 3 | 4 | 1 | 4 | 
+ | Implementation | 4 | 3 | 4 | 2 | 4 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 3 | 1 | 1 | 1 | 2 | 
@@ -393,6 +393,17 @@ week27_Trie
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 개미굴 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week28_Implementation
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 상어중학교 | ❌ | ❌ | ❌ | ✔️ | ❌ | 
 </div></details>
 <br>
 <details>
