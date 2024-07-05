@@ -9,10 +9,10 @@
  | DataStructure | 5 | 5 | 5 | 0 | 5 | 
  | Dijkstra | 1 | 0 | 1 | 0 | 1 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 11 | 11 | 11 | 1 | 11 | 
+ | DynamicProgramming | 12 | 11 | 11 | 1 | 11 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 3 | 3 | 3 | 1 | 3 | 
- | Implementation | 5 | 4 | 5 | 2 | 5 | 
+ | Implementation | 6 | 4 | 5 | 2 | 5 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 3 | 1 | 1 | 1 | 2 | 
@@ -437,5 +437,27 @@ week29_Math
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 세진이의미팅 | ❌ | ❌ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week30_DynamicProgramming
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 앱 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week30_Implementation
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 드래곤커브 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
