@@ -3,7 +3,7 @@
 | Algorithm | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | BackTracking | 5 | 5 | 5 | 0 | 5 | 
- | BFS_DFS | 4 | 4 | 3 | 2 | 4 | 
+ | BFS_DFS | 5 | 4 | 3 | 2 | 4 | 
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
  | BruteForce | 4 | 4 | 4 | 0 | 4 | 
  | DataStructure | 5 | 5 | 5 | 0 | 5 | 
@@ -459,6 +459,17 @@ week30_Implementation
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 드래곤커브 | ✔️ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week31_BFS_DFS
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 직사각형탈출 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
 <details>
