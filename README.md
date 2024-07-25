@@ -7,7 +7,7 @@
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
  | BruteForce | 4 | 4 | 4 | 0 | 4 | 
  | DataStructure | 5 | 5 | 5 | 0 | 5 | 
- | Dijkstra | 1 | 1 | 1 | 0 | 2 | 
+ | Dijkstra | 1 | 1 | 1 | 1 | 2 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 12 | 12 | 11 | 1 | 12 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
@@ -491,7 +491,7 @@ week32_Dijkstra
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 알고스팟 | ❌ | ✔️ | ❌ | ❌ | ✔️ | 
+ | 알고스팟 | ❌ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
