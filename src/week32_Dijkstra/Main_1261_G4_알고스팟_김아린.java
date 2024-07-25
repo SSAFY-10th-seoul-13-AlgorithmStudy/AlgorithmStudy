@@ -35,7 +35,6 @@ public class Main {
         
         q.add(new int[]{x, y, 0});
         visited[x][y] = true;
-        //벽을 부순게 영향을 안 끼침 = 실제 맵 변경 X
         
         while(!q.isEmpty()) {
             int[] now = q.poll();
