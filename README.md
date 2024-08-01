@@ -11,7 +11,7 @@
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 12 | 12 | 11 | 2 | 12 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
- | Greedy | 4 | 4 | 3 | 1 | 4 | 
+ | Greedy | 4 | 4 | 3 | 2 | 4 | 
  | Implementation | 6 | 5 | 5 | 3 | 6 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
@@ -480,7 +480,7 @@ week31_Greedy
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 행복유치원 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | 
+ | 행복유치원 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
