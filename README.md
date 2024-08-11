@@ -3,7 +3,7 @@
 | Algorithm | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | BackTracking | 5 | 5 | 5 | 0 | 5 | 
- | BFS_DFS | 6 | 6 | 3 | 4 | 6 | 
+ | BFS_DFS | 6 | 6 | 3 | 4 | 7 | 
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
  | BruteForce | 4 | 4 | 4 | 0 | 4 | 
  | DataStructure | 5 | 5 | 5 | 0 | 5 | 
@@ -536,5 +536,16 @@ week34_DynamicProgramming
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 로봇조종하기 | ❌ | ✔️ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week35_BFS_DFS
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 내선물을받아줘 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
