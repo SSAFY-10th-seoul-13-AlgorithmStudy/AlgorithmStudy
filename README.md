@@ -12,7 +12,7 @@
  | DynamicProgramming | 14 | 14 | 11 | 2 | 14 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 4 | 4 | 3 | 2 | 4 | 
- | Implementation | 6 | 5 | 5 | 3 | 6 | 
+ | Implementation | 6 | 5 | 5 | 3 | 7 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 3 | 1 | 1 | 1 | 2 | 
@@ -536,6 +536,17 @@ week34_DynamicProgramming
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 로봇조종하기 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week34_Implementation
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 수족관1 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
 <details>
