@@ -9,7 +9,7 @@
  | DataStructure | 5 | 5 | 5 | 0 | 5 | 
  | Dijkstra | 2 | 1 | 1 | 1 | 2 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 14 | 14 | 11 | 2 | 14 | 
+ | DynamicProgramming | 14 | 14 | 11 | 2 | 15 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 4 | 4 | 3 | 2 | 4 | 
  | Implementation | 6 | 5 | 5 | 3 | 7 | 
@@ -559,5 +559,16 @@ week35_BFS_DFS
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 내선물을받아줘 | ✔️ | ❌ | ❌ | ✔️ | ✔️ | 
  | 움직이는미로탈출 | ✔️ | ❌ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week36_DynamicProgramming
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 외판원순회3 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
