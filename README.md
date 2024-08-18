@@ -12,7 +12,7 @@
  | DynamicProgramming | 14 | 14 | 11 | 2 | 15 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 4 | 4 | 3 | 2 | 4 | 
- | Implementation | 6 | 5 | 5 | 3 | 7 | 
+ | Implementation | 6 | 5 | 5 | 3 | 8 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 3 | 1 | 1 | 1 | 2 | 
@@ -570,5 +570,16 @@ week36_DynamicProgramming
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 외판원순회3 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week36_Implementation
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 미네랄 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
