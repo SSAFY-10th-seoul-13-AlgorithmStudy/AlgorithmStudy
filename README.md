@@ -12,7 +12,7 @@
  | DynamicProgramming | 15 | 15 | 11 | 3 | 15 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 4 | 4 | 3 | 2 | 4 | 
- | Implementation | 8 | 6 | 5 | 4 | 8 | 
+ | Implementation | 8 | 7 | 5 | 4 | 8 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 3 | 1 | 1 | 1 | 2 | 
@@ -546,7 +546,7 @@ week34_Implementation
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 수족관1 | ✔️ | ❌ | ❌ | ❌ | ✔️ | 
+ | 수족관1 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
 <details>
