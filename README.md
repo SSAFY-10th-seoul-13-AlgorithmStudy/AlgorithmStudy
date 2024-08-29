@@ -5,7 +5,7 @@
  | BackTracking | 5 | 5 | 5 | 0 | 5 | 
  | BFS_DFS | 8 | 8 | 3 | 6 | 8 | 
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
- | BruteForce | 5 | 5 | 4 | 0 | 5 | 
+ | BruteForce | 5 | 5 | 4 | 1 | 5 | 
  | DataStructure | 5 | 5 | 5 | 0 | 5 | 
  | Dijkstra | 2 | 1 | 1 | 1 | 2 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
@@ -591,7 +591,7 @@ week37_BruteForce
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 하늘에서별똥별이빗발친다 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | 
+ | 하늘에서별똥별이빗발친다 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
