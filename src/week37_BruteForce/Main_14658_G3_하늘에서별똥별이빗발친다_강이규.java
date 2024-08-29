@@ -7,7 +7,7 @@ import java.util.Set;
 import java.util.StringTokenizer;
 import java.util.TreeSet;
 
-public class Main_14658_G3_하늘에서별똥별이빗발친다 {
+public class Main_14658_G3_하늘에서별똥별이빗발친다_강이규 {
 
     static int N, M, L, K;
     static int l, r, b, t;
