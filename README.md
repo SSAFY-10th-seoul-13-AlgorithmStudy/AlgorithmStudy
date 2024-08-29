@@ -5,13 +5,13 @@
  | BackTracking | 5 | 5 | 5 | 0 | 5 | 
  | BFS_DFS | 8 | 8 | 3 | 6 | 8 | 
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
- | BruteForce | 4 | 4 | 4 | 0 | 4 | 
+ | BruteForce | 5 | 4 | 4 | 0 | 5 | 
  | DataStructure | 5 | 5 | 5 | 0 | 5 | 
  | Dijkstra | 2 | 1 | 1 | 1 | 2 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 15 | 15 | 11 | 3 | 15 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
- | Greedy | 4 | 4 | 3 | 2 | 4 | 
+ | Greedy | 5 | 4 | 3 | 2 | 4 | 
  | Implementation | 8 | 7 | 5 | 4 | 8 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
@@ -581,5 +581,27 @@ week36_Implementation
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 미네랄 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week37_BruteForce
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 하늘에서별똥별이빗발친다 | ✔️ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week37_Greedy
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 소트 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
