@@ -9,7 +9,7 @@
  | DataStructure | 5 | 5 | 5 | 0 | 5 | 
  | Dijkstra | 2 | 1 | 1 | 1 | 2 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 15 | 15 | 11 | 4 | 15 | 
+ | DynamicProgramming | 15 | 15 | 11 | 5 | 15 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 5 | 5 | 3 | 3 | 5 | 
  | Implementation | 8 | 7 | 5 | 4 | 8 | 
@@ -535,7 +535,7 @@ week34_DynamicProgramming
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 로봇조종하기 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | 
+ | 로봇조종하기 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
