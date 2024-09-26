@@ -6,7 +6,7 @@
  | BFS_DFS | 8 | 8 | 3 | 6 | 8 | 
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
  | BruteForce | 7 | 7 | 4 | 1 | 6 | 
- | DataStructure | 5 | 5 | 5 | 0 | 5 | 
+ | DataStructure | 6 | 5 | 5 | 0 | 5 | 
  | Dijkstra | 2 | 1 | 1 | 1 | 2 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 15 | 15 | 11 | 5 | 15 | 
@@ -615,5 +615,16 @@ week38_BruteForce
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 스티커붙이기 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | 
  | 색종이붙이기 | ✔️ | ✔️ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week39_DataStructure
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 스카이라인쉬운거 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
