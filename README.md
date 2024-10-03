@@ -22,7 +22,7 @@
  | TopologySort | 4 | 4 | 4 | 0 | 4 | 
  | Tree | 0 | 0 | 0 | 0 | 0 | 
  | Trie | 1 | 1 | 1 | 1 | 1 | 
- | TwoPointer | 2 | 2 | 1 | 1 | 2 | 
+ | TwoPointer | 2 | 3 | 1 | 1 | 3 | 
  | UnionFind | 4 | 2 | 1 | 0 | 3 | 
  | Math | 1 | 1 | 1 | 2 | 2 | 
 ## 주차별 풀이 상황 
@@ -637,5 +637,16 @@ week39_MST
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 물대기 | ✔️ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week40_TwoPointer
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | ListOfUniqueNumbers | ❌ | ✔️ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
