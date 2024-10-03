@@ -641,6 +641,17 @@ week39_MST
 <br>
 <details>
 <summary>
+week40_Sort
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 버블정렬 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
 week40_TwoPointer
 </summary>
 <div markdown="1">
