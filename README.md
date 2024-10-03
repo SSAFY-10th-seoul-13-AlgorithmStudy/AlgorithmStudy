@@ -5,7 +5,7 @@
  | BackTracking | 5 | 5 | 5 | 0 | 5 | 
  | BFS_DFS | 8 | 8 | 3 | 6 | 8 | 
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
- | BruteForce | 7 | 7 | 4 | 2 | 7 | 
+ | BruteForce | 7 | 7 | 4 | 3 | 7 | 
  | DataStructure | 6 | 5 | 5 | 0 | 6 | 
  | Dijkstra | 2 | 1 | 1 | 1 | 2 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
@@ -614,7 +614,7 @@ week38_BruteForce
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 스티커붙이기 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
- | 색종이붙이기 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | 
+ | 색종이붙이기 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
