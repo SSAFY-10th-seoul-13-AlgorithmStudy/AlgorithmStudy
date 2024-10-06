@@ -12,7 +12,7 @@ users = [
 algorithms = [
     'BackTracking', 'BFS_DFS', 'BinarySearch', 'BruteForce', 'DataStructure',
     'Dijkstra', 'DivideAndConquer', 'DynamicProgramming', 'FloydWarshall', 'Greedy',
-    'Implementation', 'KMP', 'LCA', 'MST', 'PrefixSum', 'SegmentTree', 'String',
+    'Implementation', 'KMP', 'LCA', 'MST', 'PrefixSum', 'SegmentTree', 'Sort', 'String',
     'TopologySort', 'Tree', 'Trie', 'TwoPointer', 'UnionFind','Math'
 ]
 
