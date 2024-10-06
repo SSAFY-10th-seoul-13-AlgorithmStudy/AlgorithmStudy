@@ -18,6 +18,7 @@
  | MST | 4 | 1 | 1 | 2 | 3 | 
  | PrefixSum | 1 | 1 | 1 | 0 | 1 | 
  | SegmentTree | 0 | 0 | 0 | 0 | 0 | 
+ | Sort | 1 | 0 | 0 | 0 | 0 | 
  | String | 0 | 0 | 0 | 0 | 0 | 
  | TopologySort | 4 | 4 | 4 | 0 | 4 | 
  | Tree | 0 | 0 | 0 | 0 | 0 | 
