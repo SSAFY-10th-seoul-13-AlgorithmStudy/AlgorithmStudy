@@ -2,7 +2,7 @@
 ## 알고리즘별 분류 
 | Algorithm | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | BackTracking | 5 | 5 | 5 | 0 | 5 | 
+ | BackTracking | 5 | 5 | 5 | 0 | 6 | 
  | BFS_DFS | 8 | 8 | 3 | 6 | 8 | 
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
  | BruteForce | 7 | 7 | 4 | 3 | 7 | 
@@ -12,7 +12,7 @@
  | DynamicProgramming | 15 | 15 | 11 | 5 | 15 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 5 | 5 | 3 | 3 | 5 | 
- | Implementation | 8 | 7 | 5 | 5 | 8 | 
+ | Implementation | 8 | 7 | 5 | 5 | 9 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 4 | 1 | 1 | 2 | 3 | 
@@ -660,5 +660,27 @@ week40_TwoPointer
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | ListOfUniqueNumbers | ❌ | ✔️ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week41_BackTracking
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 좋은수열 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week41_Implementation
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | IP주소 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
