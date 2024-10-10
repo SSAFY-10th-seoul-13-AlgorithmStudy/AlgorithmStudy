@@ -23,7 +23,7 @@
  | TopologySort | 4 | 4 | 4 | 0 | 4 | 
  | Tree | 0 | 0 | 0 | 0 | 0 | 
  | Trie | 1 | 1 | 1 | 1 | 1 | 
- | TwoPointer | 2 | 3 | 1 | 1 | 3 | 
+ | TwoPointer | 2 | 3 | 1 | 2 | 3 | 
  | UnionFind | 4 | 2 | 1 | 0 | 3 | 
  | Math | 1 | 1 | 1 | 2 | 2 | 
 ## 주차별 풀이 상황 
@@ -659,6 +659,6 @@ week40_TwoPointer
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | ListOfUniqueNumbers | ❌ | ✔️ | ❌ | ❌ | ✔️ | 
+ | ListOfUniqueNumbers | ❌ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
