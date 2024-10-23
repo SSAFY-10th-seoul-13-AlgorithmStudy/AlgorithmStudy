@@ -1,30 +1,74 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {   
+public class Main {
+    static class Block implements Comparator<Block> {
+        int x;
+        int y;
+        
+        public Block(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
+        
+        @Override
+        public int compare(Block b1, Block b2) {
+            // 행 x 비교 (작은 값이 우선순위 높음)
+            if (b1.x != b2.x)
+                return Integer.compare(b2.x, b1.x);
+            
+            // 행 x가 같다면 열 y 비교 (작은 값이 우선순위 높음)
+            return Integer.compare(b2.y, b1.y);
+        }
+    }
+    static class BlockGroup implements Comparable<BlockGroup> {
+        List<Block> group;
+        int rainbowCnt;
+        int size;
+        Block standard;
+        
+        public BlockGroup(List<Block> group, int rainbowCnt, int size, Block standard) {
+            this.group = group;
+            this.rainbowCnt = rainbowCnt;
+            this.size = size;
+            this.standard = standard;
+        }
+               
+        @Override
+        public int compareTo(BlockGroup bg) {
+            if(this.size != bg.size)
+                return Integer.compare(bg.size, this.size);
+                
+            // 크기가 같다면 rainbowCnt를 비교 (큰 값이 우선순위 높음)
+            if (this.rainbowCnt != bg.rainbowCnt) {
+                return Integer.compare(bg.rainbowCnt, this.rainbowCnt);
+            }
+            // rainbowCnt가 같다면 sr을 비교 (큰 값이 우선순위 높음)
+            if (this.standard.x != bg.standard.x) {
+                return Integer.compare(bg.standard.x, this.standard.x);
+            }
+            // sr도 같다면 sc을 비교 (큰 값이 우선순위 높음)
+            return Integer.compare(bg.standard.y, this.standard.y);
+        }
+    }
+    
     static int N, M, score;
     static int[][] map;
     static boolean[][] visited;
-    static int[][] dir = {{1,0}, {0,1}, {-1, 0}, {0, -1}};
-    
+    static int[] dx = {1,0,0,-1};
+    static int[] dy = {0,1,-1,0};
+    static PriorityQueue<BlockGroup> pq;
+    static StringTokenizer st;
     public static void main(String[] args) throws Exception {
-        // 문제보니까 당 떨어지네
-        // -1 검은색
-        // 0 무지개
-        // 일반 블록은 M가지 색상 1~M
-        // 8방 = 인접함
-        // 블록 그룹 = 일반 블록 적어도 하나, 모두 같은 색, 검은색 X, 무지개는 노상관 (>=2)
-        // 기준 블록 = 일반 블록 중 0,0에 가까운 블록
-        
-        // 크기가 가장 큰 블록 그룹(<무지개<기준블록 행 < 기준블록 열)의 모든 블록 제거(블록수^2 획득)
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        st = new StringTokenizer(br.readLine());
         
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
-        map = new int[N][N];
+
         score = 0;
-        
+        map = new int[N][N];
+                
         for (int i = 0; i < N; i++) {
             st = new StringTokenizer(br.readLine());
             for (int j = 0; j < N; j++) {
@@ -33,153 +77,120 @@ public class Main {
         }
         
         while(true) {
+            pq = new PriorityQueue<>();
+            visited = new boolean[N][N];
             
-            visited = new boolean[N][N]; //계속 새로 찾아야함
-            
-            BlockGroup bg = null;
-            
-            //블록그룹 찾기
+            //크기가 가장 큰 블록 찾기
             for (int i = 0; i < N; i++) {
                 for (int j = 0; j < N; j++) {
-                    if(visited[i][j] || map[i][j] <= 0) //방문했거나 일반 블럭이 아니면 X
-                        continue;
-                    BlockGroup g = findGroup(i, j);
-                    if (g != null) {
-                            if (bg == null || g.compareTo(bg) > 0) {
-                                bg = g;
-                            }
-                        }
+                    if(map[i][j] <= 0) continue;
+                    if(map[i][j] > 0 && visited[i][j]) continue;
+                    findBiggest(i, j);
                 }
             }
-            
-            //종료조건 = 블록 그룹이 없을때
-            if(bg == null)
+                        
+            if(pq.isEmpty())
                 break;
             
-            // 블록 그룹 제거 및 점수 계산
-            score += bg.size * bg.size;
-            removeGroup(bg);
+            BlockGroup willRemove = pq.poll();
+            score += Math.pow(willRemove.size, 2);
             
-             // 중력 적용
-            gravity();
-
-            // 반시계 방향 회전
-            rotateGrid();
-
-            // 중력 다시 적용
+            //가장 큰 블록 그룹 삭제
+            removeBiggest(willRemove);
+            
+            //중력 적용
             gravity();
             
+            rotate();
+            
+            gravity();
         }
+        
         System.out.println(score);
     }
     
-    static BlockGroup findGroup(int x, int y) {
-        Queue<int[]> q = new ArrayDeque<>();
-        List<int[]> blocks = new ArrayList<>();
-        List<int[]> rainbows = new ArrayList<>();
-        boolean[][] tmpVisited = new boolean[N][N];
+    public static void rotate() {
+        int[][] copy = new int[N][N];
         
-        int color = map[x][y];
-        q.add(new int[]{x, y});
-        tmpVisited[x][y] = true;
-        blocks.add(new int[]{x, y});
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < N; j++) {
+                copy[N-1-j][i] = map[i][j];
+            }
+        }
+        map = copy;
+    }
+    
+    public static void gravity() {
+        for (int c = 0; c < N; c++) {
+            int tam = N - 1; // 아래에서부터 탐색
+            
+            // 아래에서 위로 탐색
+            for (int r = N - 1; r >= 0; r--) {
+                if(map[r][c] == -1) // 벽을 만나면
+                    tam = r - 1;
+                if (map[r][c] != -2 && map[r][c] != -1) { // 블록이 있으면
+                    map[tam][c] = map[r][c]; // 빈 공간으로 블록 이동
+                    if (tam != r) {
+                        map[r][c] = -2; // 원래 위치를 빈 칸으로
+                    }
+                    tam--; // 다음 빈 칸 위로 이동
+                }
+            }
+        }
+    }
+    
+    public static void removeBiggest(BlockGroup b) {
+        for (Block now : b.group) {
+            map[now.x][now.y] = -2;
+        }
+    }
+    
+    public static void findBiggest(int startX, int startY) {
+        Queue<Block> q = new ArrayDeque<>();
+        boolean[][] isvisit = new boolean[N][N];
+        List<Block> list = new ArrayList<>(); //블록 리스트
+        Block standard = new Block(startX, startY); // 기준 블록
+        int rainbowCnt = 0; //레인보우 블록 개수
+        int color = map[startX][startY]; //블록 색깔
+        
+        q.add(new Block(startX, startY));
+        isvisit[startX][startY] = true;
+        visited[startX][startY] = true;
+        list.add(q.peek());
         
         while(!q.isEmpty()) {
-            int[] cur = q.poll();
+            Block now = q.poll();
+            
             for (int i = 0; i < 4; i++) {
-                int cx = cur[0] + dir[i][0];
-                int cy = cur[1] + dir[i][1];
-                if(cx >= N || cx < 0 || cy >= N || cy < 0) continue;
-                if(tmpVisited[cx][cy]) continue;
-                if(map[cx][cy] != color && map[cx][cy] != 0) continue;
-                q.add(new int[]{cx, cy});
-                tmpVisited[cx][cy] = true;
-                blocks.add(new int[]{cx, cy});
-                if(map[cx][cy] == 0)
-                    rainbows.add(new int[]{cx, cy});
-            }
-        }
-        
-        if(blocks.size() < 2)  
-            return null;
-        
-        for (int[] block : blocks) {
-            if(map[block[0]][block[1]] != 0)
-                visited[block[0]][block[1]] = true;
-        }
-        
-        return new BlockGroup(blocks, rainbows);
-    }
-    
-     static void removeGroup(BlockGroup g) {
-        for (int[] block : g.blocks) {
-            map[block[0]][block[1]] = -2;
-        }
-    }
-    
-    static void gravity() {
-        for (int j = 0; j < N; j++) {
-            int bottom = N - 1;
-            for (int i = N - 1; i >= 0; i--) {
-                if (map[i][j] == -1) {
-                    bottom = i - 1;
-                } else if (map[i][j] >= 0) {
-                    int temp = map[i][j];
-                    map[i][j] = -2;
-                    map[bottom--][j] = temp;
+                int mx = now.x + dx[i];
+                int my = now.y + dy[i];
+                
+                if(mx < 0 || my < 0 || mx >= N || my >= N) continue;
+                if(isvisit[mx][my]) continue;
+                if(map[mx][my] == -1) continue;
+                
+                Block b = new Block(mx, my);
+                if(map[mx][my] == 0) { //무지개 블록이면 방문처리+q삽입+cnt증가
+                    q.add(b);
+                    rainbowCnt++;
+                    list.add(b);
+                    isvisit[mx][my] = true;
+                    continue;
                 }
+                if(map[mx][my] != color) continue;
+                
+                q.add(b);
+                isvisit[mx][my] = true;
+                visited[mx][my] = true; //일반 블록일때만 방문처리하여 이후 방문하지 않도록 함.
+                list.add(b);
+                standard = b.compare(standard, b) < 0 ? b : standard ;
             }
         }
-    }
-    static void rotateGrid() {
-        int[][] newGrid = new int[N][N];
-        for (int i = 0; i < N; i++) {
-              for (int j = 0; j < N; j++) {
-                newGrid[N - 1 - j][i] = map[i][j];
-            }
-        }
-        map= newGrid;
-    }
-    
- static class BlockGroup implements Comparable<BlockGroup> {
-    List<int[]> blocks;
-    List<int[]> rainbowBlocks;
-    int size;
-    int rainbowSize;
-    int giX;
-    int giY;
-
-    public BlockGroup(List<int[]> blocks, List<int[]> rainbowBlocks) {
-        this.blocks = blocks;
-        this.rainbowBlocks = rainbowBlocks;
-        this.size = blocks.size();
-        this.rainbowSize = rainbowBlocks.size();
-
-        this.giX = Integer.MAX_VALUE;
-        this.giY= Integer.MAX_VALUE;
-
-        for (int[] block : blocks) {
-            if (map[block[0]][block[1]] > 0) {
-                if (block[0] < giX || (block[0] == giX && block[1] < giY)) {
-                    giX = block[0];
-                    giY = block[1];
-                }
-            }
+        
+        if(list.size() < 2)
+            return;
+        else {
+            pq.add(new BlockGroup(list, rainbowCnt, list.size(), standard));
         }
     }
-
-    @Override
-    public int compareTo(BlockGroup o) {
-        if (this.size != o.size) {
-            return Integer.compare(o.size, this.size);
-        }
-        if (this.rainbowSize != o.rainbowSize) {
-            return Integer.compare(o.rainbowSize, this.rainbowSize);
-        }
-        if (this.giX != o.giX) {
-            return Integer.compare(o.giX, this.giX);
-        }
-        return Integer.compare(o.giY, this.giY);
-    }
-}
 }
