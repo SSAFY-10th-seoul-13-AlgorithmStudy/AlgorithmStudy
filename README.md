@@ -7,7 +7,7 @@
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
  | BruteForce | 7 | 7 | 4 | 3 | 7 | 
  | DataStructure | 6 | 5 | 5 | 1 | 6 | 
- | Dijkstra | 2 | 1 | 1 | 1 | 2 | 
+ | Dijkstra | 2 | 1 | 1 | 1 | 3 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 16 | 16 | 11 | 6 | 16 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
@@ -15,7 +15,7 @@
  | Implementation | 9 | 8 | 5 | 6 | 9 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
- | MST | 4 | 1 | 1 | 2 | 3 | 
+ | MST | 4 | 1 | 1 | 2 | 4 | 
  | PrefixSum | 1 | 1 | 1 | 0 | 1 | 
  | SegmentTree | 0 | 0 | 0 | 0 | 0 | 
  | Sort | 1 | 1 | 0 | 1 | 0 | 
@@ -704,5 +704,27 @@ week42_Implementation
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 확장게임 | ❌ | ❌ | ❌ | ✔️ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week43_Dijkstra
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 해킹 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week43_MST
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 전기가부족해 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
