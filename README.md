@@ -12,7 +12,7 @@
  | DynamicProgramming | 16 | 16 | 11 | 6 | 16 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 5 | 5 | 3 | 3 | 5 | 
- | Implementation | 9 | 8 | 5 | 6 | 9 | 
+ | Implementation | 9 | 9 | 5 | 6 | 9 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 4 | 2 | 1 | 2 | 4 | 
@@ -703,7 +703,7 @@ week42_Implementation
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 확장게임 | ❌ | ❌ | ❌ | ✔️ | ❌ | 
+ | 확장게임 | ❌ | ✔️ | ❌ | ✔️ | ❌ | 
 </div></details>
 <br>
 <details>
