@@ -7,7 +7,7 @@
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
  | BruteForce | 7 | 7 | 4 | 3 | 7 | 
  | DataStructure | 6 | 5 | 5 | 1 | 6 | 
- | Dijkstra | 2 | 1 | 1 | 1 | 3 | 
+ | Dijkstra | 2 | 2 | 1 | 1 | 3 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 16 | 16 | 11 | 6 | 16 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
@@ -714,7 +714,7 @@ week43_Dijkstra
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 해킹 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+ | 해킹 | ❌ | ✔️ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
 <details>
