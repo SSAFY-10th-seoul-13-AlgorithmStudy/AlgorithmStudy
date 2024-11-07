@@ -9,7 +9,7 @@
  | DataStructure | 6 | 5 | 5 | 1 | 6 | 
  | Dijkstra | 3 | 2 | 1 | 2 | 3 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 16 | 17 | 11 | 7 | 17 | 
+ | DynamicProgramming | 17 | 17 | 11 | 7 | 17 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 5 | 5 | 3 | 3 | 5 | 
  | Implementation | 9 | 9 | 5 | 7 | 10 | 
@@ -736,7 +736,7 @@ week44_DynamicProgramming
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 카운트다운 | ❌ | ✔️ | ❌ | ✔️ | ✔️ | 
+ | 카운트다운 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
