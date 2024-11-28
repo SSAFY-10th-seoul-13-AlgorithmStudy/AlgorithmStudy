@@ -3,11 +3,11 @@
 | Algorithm | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | BackTracking | 6 | 6 | 5 | 1 | 6 | 
- | BFS_DFS | 9 | 9 | 3 | 8 | 10 | 
+ | BFS_DFS | 9 | 9 | 3 | 8 | 11 | 
  | BinarySearch | 5 | 5 | 5 | 0 | 5 | 
  | BruteForce | 7 | 7 | 4 | 3 | 7 | 
  | DataStructure | 6 | 5 | 5 | 1 | 6 | 
- | Dijkstra | 3 | 2 | 1 | 2 | 3 | 
+ | Dijkstra | 3 | 2 | 1 | 2 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 17 | 17 | 11 | 7 | 17 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
@@ -781,5 +781,27 @@ week46_Implementation
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 원판돌리기 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week47_BFS_DFS
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 두동전 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week47_Dijkstra
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 횡단보도 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
