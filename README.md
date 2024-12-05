@@ -805,3 +805,14 @@ week47_Dijkstra
  | 횡단보도 | ❌ | ❌ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
+<details>
+<summary>
+week48_Geometry
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 집으로 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
