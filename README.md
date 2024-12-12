@@ -4,12 +4,12 @@
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | BackTracking | 6 | 6 | 5 | 1 | 6 | 
  | BFS_DFS | 11 | 10 | 3 | 9 | 11 | 
- | BinarySearch | 5 | 6 | 5 | 1 | 5 | 
+ | BinarySearch | 5 | 6 | 5 | 1 | 6 | 
  | BruteForce | 7 | 7 | 4 | 3 | 7 | 
  | DataStructure | 6 | 5 | 5 | 1 | 6 | 
  | Dijkstra | 4 | 2 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 18 | 19 | 11 | 8 | 18 | 
+ | DynamicProgramming | 18 | 19 | 11 | 8 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 5 | 5 | 3 | 3 | 5 | 
  | Implementation | 11 | 10 | 5 | 8 | 11 | 
@@ -835,7 +835,7 @@ week49_BinarySearch
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 주식 | ❌ | ✔️ | ❌ | ✔️ | ❌ | 
+ | 주식 | ❌ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
@@ -846,6 +846,6 @@ week49_DynamicProgramming
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 케익배달 | ❌ | ✔️ | ❌ | ✔️ | ❌ | 
+ | 케익배달 | ❌ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
