@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main_2830_G3_행성X3_강이규 {
+public class Main_2830_G3_행성X3_강이규 { 
     /*
     이진수의 특정 자리마다 0, 1이 몇개인지 구하고, 마지막에 한번에 구하기
     이진수 i자리로 인해 더해지는 친밀도 = 2^i * 해당 자리 0 개수 * 해당 자리 1 개수
