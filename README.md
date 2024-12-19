@@ -12,7 +12,7 @@
  | DynamicProgramming | 19 | 19 | 11 | 8 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 5 | 5 | 3 | 3 | 5 | 
- | Implementation | 11 | 10 | 5 | 8 | 11 | 
+ | Implementation | 11 | 10 | 5 | 8 | 12 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 5 | 2 | 1 | 3 | 4 | 
@@ -25,7 +25,7 @@
  | Trie | 1 | 1 | 1 | 1 | 1 | 
  | TwoPointer | 3 | 3 | 1 | 2 | 3 | 
  | UnionFind | 4 | 2 | 1 | 0 | 3 | 
- | Math | 2 | 2 | 1 | 3 | 2 | 
+ | Math | 2 | 2 | 1 | 3 | 3 | 
 ## 주차별 풀이 상황 
 
 <details>
@@ -857,6 +857,17 @@ week50_Math
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 행성X3 | ✔️ | ✔️ | ❌ | ✔️ | ❌ | 
+ | 행성X3 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week51_Implementation
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 모노미노도미노 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
