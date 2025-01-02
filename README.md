@@ -11,7 +11,7 @@
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 19 | 19 | 11 | 8 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
- | Greedy | 7 | 6 | 3 | 3 | 6 | 
+ | Greedy | 7 | 6 | 3 | 3 | 7 | 
  | Implementation | 11 | 10 | 5 | 8 | 12 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
@@ -20,7 +20,7 @@
  | SegmentTree | 0 | 0 | 0 | 0 | 0 | 
  | Sort | 1 | 1 | 0 | 1 | 1 | 
  | String | 0 | 0 | 0 | 0 | 0 | 
- | TopologySort | 5 | 4 | 4 | 0 | 4 | 
+ | TopologySort | 5 | 4 | 4 | 0 | 5 | 
  | Tree | 0 | 0 | 0 | 0 | 0 | 
  | Trie | 1 | 1 | 1 | 1 | 1 | 
  | TwoPointer | 3 | 3 | 1 | 2 | 3 | 
@@ -901,7 +901,7 @@ week52_Greedy
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 구두수선공 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+ | 구두수선공 | ✔️ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
 <details>
@@ -912,6 +912,6 @@ week52_TopologySort
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | Strahler순서 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+ | Strahler순서 | ✔️ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
