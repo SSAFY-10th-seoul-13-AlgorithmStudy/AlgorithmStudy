@@ -20,7 +20,7 @@
  | SegmentTree | 0 | 0 | 0 | 0 | 0 | 
  | Sort | 1 | 1 | 0 | 1 | 1 | 
  | String | 0 | 0 | 0 | 0 | 0 | 
- | TopologySort | 5 | 4 | 4 | 0 | 5 | 
+ | TopologySort | 5 | 4 | 4 | 1 | 5 | 
  | Tree | 0 | 0 | 0 | 0 | 0 | 
  | Trie | 1 | 1 | 1 | 1 | 1 | 
  | TwoPointer | 3 | 3 | 1 | 2 | 3 | 
@@ -913,6 +913,6 @@ week52_TopologySort
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | Strahler순서 | ✔️ | ❌ | ❌ | ❌ | ✔️ | 
+ | Strahler순서 | ✔️ | ❌ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
