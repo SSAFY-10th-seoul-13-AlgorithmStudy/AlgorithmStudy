@@ -12,7 +12,7 @@
  | DynamicProgramming | 19 | 19 | 11 | 8 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 7 | 6 | 3 | 3 | 7 | 
- | Implementation | 11 | 10 | 5 | 8 | 12 | 
+ | Implementation | 12 | 10 | 5 | 8 | 12 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 5 | 2 | 1 | 3 | 4 | 
@@ -858,6 +858,7 @@ week50_Implementation
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 모노미노도미노 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+ | 모노미노도미노2 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
 <details>
