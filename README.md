@@ -20,7 +20,7 @@
  | SegmentTree | 0 | 0 | 0 | 0 | 0 | 
  | Sort | 1 | 1 | 0 | 1 | 1 | 
  | String | 0 | 0 | 0 | 0 | 0 | 
- | TopologySort | 4 | 4 | 4 | 0 | 4 | 
+ | TopologySort | 5 | 4 | 4 | 0 | 4 | 
  | Tree | 0 | 0 | 0 | 0 | 0 | 
  | Trie | 1 | 1 | 1 | 1 | 1 | 
  | TwoPointer | 3 | 3 | 1 | 2 | 3 | 
@@ -902,5 +902,16 @@ week52_Greedy
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 구두수선공 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week52_TopologySort
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | Strahler순서 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
