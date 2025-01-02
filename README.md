@@ -11,7 +11,7 @@
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 19 | 19 | 11 | 8 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
- | Greedy | 6 | 6 | 3 | 3 | 6 | 
+ | Greedy | 7 | 6 | 3 | 3 | 6 | 
  | Implementation | 11 | 10 | 5 | 8 | 12 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
@@ -891,5 +891,16 @@ week51_UnionFind
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 사이클게임 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week52_Greedy
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 구두수선공 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
