@@ -12,7 +12,7 @@
  | DynamicProgramming | 19 | 19 | 11 | 9 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 7 | 7 | 3 | 4 | 7 | 
- | Implementation | 12 | 10 | 5 | 8 | 12 | 
+ | Implementation | 13 | 10 | 5 | 8 | 12 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 5 | 2 | 1 | 3 | 4 | 
@@ -914,5 +914,16 @@ week52_TopologySort
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | Strahler순서 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week53_Implementation
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 이차원배열과연산 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
