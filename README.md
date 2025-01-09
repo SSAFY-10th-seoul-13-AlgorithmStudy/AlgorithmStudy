@@ -17,7 +17,7 @@
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 5 | 2 | 1 | 3 | 4 | 
  | PrefixSum | 2 | 2 | 1 | 1 | 2 | 
- | SegmentTree | 0 | 0 | 0 | 0 | 0 | 
+ | SegmentTree | 1 | 0 | 0 | 0 | 0 | 
  | Sort | 1 | 1 | 0 | 1 | 1 | 
  | String | 0 | 0 | 0 | 0 | 0 | 
  | TopologySort | 5 | 5 | 4 | 1 | 5 | 
@@ -947,5 +947,16 @@ week54_BFS_DFS
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 미로탈출 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week54_SegmentTree
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 수들의합7 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
