@@ -3,7 +3,7 @@
 | Algorithm | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | BackTracking | 6 | 6 | 5 | 1 | 6 | 
- | BFS_DFS | 11 | 11 | 3 | 9 | 11 | 
+ | BFS_DFS | 12 | 11 | 3 | 9 | 11 | 
  | BinarySearch | 6 | 6 | 5 | 1 | 6 | 
  | BruteForce | 7 | 7 | 4 | 3 | 7 | 
  | DataStructure | 6 | 5 | 5 | 1 | 6 | 
@@ -914,6 +914,17 @@ week52_TopologySort
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | Strahler순서 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week53_BFS_DFS
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 과외맨 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
 <details>
