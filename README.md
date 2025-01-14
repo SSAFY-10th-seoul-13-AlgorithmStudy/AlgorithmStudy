@@ -3,7 +3,7 @@
 | Algorithm | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | BackTracking | 6 | 6 | 5 | 1 | 6 | 
- | BFS_DFS | 13 | 12 | 4 | 10 | 12 | 
+ | BFS_DFS | 13 | 12 | 4 | 10 | 13 | 
  | BinarySearch | 6 | 6 | 5 | 1 | 6 | 
  | BruteForce | 7 | 7 | 4 | 3 | 7 | 
  | DataStructure | 6 | 5 | 5 | 1 | 6 | 
@@ -15,7 +15,7 @@
  | Implementation | 13 | 12 | 5 | 9 | 13 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
- | MST | 5 | 2 | 1 | 3 | 4 | 
+ | MST | 5 | 2 | 1 | 3 | 5 | 
  | PrefixSum | 2 | 2 | 1 | 1 | 2 | 
  | SegmentTree | 1 | 0 | 0 | 0 | 0 | 
  | Sort | 1 | 1 | 0 | 1 | 1 | 
@@ -958,5 +958,27 @@ week54_SegmentTree
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 수들의합7 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week55_BFS_DFS
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 퍼즐 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week55_MST
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 전력난 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
