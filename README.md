@@ -12,7 +12,7 @@
  | DynamicProgramming | 19 | 19 | 11 | 9 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 7 | 7 | 3 | 4 | 7 | 
- | Implementation | 13 | 12 | 5 | 8 | 13 | 
+ | Implementation | 13 | 12 | 5 | 9 | 13 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 5 | 2 | 1 | 3 | 4 | 
@@ -935,7 +935,7 @@ week53_Implementation
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 이차원배열과연산 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | 
+ | 이차원배열과연산 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
