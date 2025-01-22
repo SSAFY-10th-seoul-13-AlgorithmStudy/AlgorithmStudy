@@ -11,7 +11,7 @@
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 19 | 19 | 11 | 9 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
- | Greedy | 7 | 7 | 3 | 4 | 7 | 
+ | Greedy | 7 | 8 | 3 | 4 | 7 | 
  | Implementation | 13 | 12 | 5 | 9 | 13 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
@@ -980,5 +980,16 @@ week55_MST
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 전력난 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week56_Greedy
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 책나눠주기 | ❌ | ✔️ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
