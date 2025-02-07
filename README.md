@@ -9,7 +9,7 @@
  | DataStructure | 6 | 5 | 5 | 1 | 6 | 
  | Dijkstra | 4 | 3 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 19 | 19 | 11 | 9 | 19 | 
+ | DynamicProgramming | 19 | 20 | 11 | 9 | 19 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 9 | 9 | 5 | 7 | 9 | 
  | Implementation | 13 | 12 | 5 | 9 | 13 | 
@@ -1003,5 +1003,16 @@ week57_BruteForce
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 마피아 | ❌ | ✔️ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week57_DynamicProgramming
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 문자열과점수 | ❌ | ✔️ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
