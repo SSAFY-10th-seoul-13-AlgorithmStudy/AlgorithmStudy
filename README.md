@@ -6,7 +6,7 @@
  | BFS_DFS | 15 | 13 | 5 | 12 | 14 | 
  | BinarySearch | 6 | 6 | 5 | 1 | 6 | 
  | BruteForce | 8 | 8 | 4 | 4 | 8 | 
- | DataStructure | 6 | 5 | 5 | 1 | 6 | 
+ | DataStructure | 7 | 5 | 5 | 1 | 6 | 
  | Dijkstra | 4 | 3 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 21 | 20 | 11 | 11 | 20 | 
@@ -15,7 +15,7 @@
  | Implementation | 13 | 12 | 5 | 9 | 13 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
- | MST | 6 | 3 | 2 | 4 | 5 | 
+ | MST | 7 | 3 | 2 | 4 | 5 | 
  | PrefixSum | 2 | 2 | 1 | 1 | 2 | 
  | SegmentTree | 1 | 1 | 1 | 1 | 0 | 
  | Sort | 1 | 1 | 0 | 1 | 1 | 
@@ -1036,5 +1036,27 @@ week58_DynamicProgramming
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 반도체설계 | ✔️ | ❌ | ❌ | ✔️ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week59_DataStructure
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 사촌 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week59_MST
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 우주신과의교감 | ✔️ | ❌ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
