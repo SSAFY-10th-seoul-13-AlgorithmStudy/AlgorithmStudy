@@ -9,7 +9,7 @@
  | DataStructure | 7 | 5 | 5 | 1 | 7 | 
  | Dijkstra | 4 | 3 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 21 | 20 | 11 | 11 | 20 | 
+ | DynamicProgramming | 21 | 20 | 11 | 12 | 20 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
  | Greedy | 9 | 9 | 5 | 7 | 9 | 
  | Implementation | 13 | 12 | 5 | 9 | 13 | 
@@ -1059,5 +1059,16 @@ week59_MST
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 우주신과의교감 | ✔️ | ❌ | ✔️ | ✔️ | ❌ | 
  | 우주선과의교감 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week60_DynamicProgramming
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 떡장수와호랑이 | ❌ | ❌ | ❌ | ✔️ | ❌ | 
 </div></details>
 <br>
