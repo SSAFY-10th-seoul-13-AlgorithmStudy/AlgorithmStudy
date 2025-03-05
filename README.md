@@ -11,7 +11,7 @@
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 21 | 20 | 11 | 12 | 20 | 
  | FloydWarshall | 0 | 0 | 0 | 0 | 0 | 
- | Greedy | 9 | 9 | 5 | 7 | 9 | 
+ | Greedy | 9 | 9 | 5 | 8 | 9 | 
  | Implementation | 13 | 12 | 5 | 9 | 13 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
@@ -1070,5 +1070,16 @@ week60_DynamicProgramming
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 떡장수와호랑이 | ❌ | ❌ | ❌ | ✔️ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week60_Greedy
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 도서관 | ❌ | ❌ | ❌ | ✔️ | ❌ | 
 </div></details>
 <br>
