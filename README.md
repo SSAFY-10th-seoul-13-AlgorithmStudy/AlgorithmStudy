@@ -9,7 +9,7 @@
  | DataStructure | 7 | 5 | 5 | 1 | 7 | 
  | Dijkstra | 4 | 3 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 23 | 22 | 13 | 12 | 22 | 
+ | DynamicProgramming | 24 | 22 | 13 | 12 | 22 | 
  | FloydWarshall | 1 | 1 | 1 | 0 | 0 | 
  | Greedy | 10 | 10 | 5 | 8 | 10 | 
  | Implementation | 14 | 13 | 6 | 9 | 14 | 
@@ -1103,7 +1103,7 @@ week62_DynamicProgramming
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 점수따먹기 | ✔️ | ❌ | ✔️ | ❌ | ✔️ | 
- | 커플만들기 | ❌ | ✔️ | ✔️ | ❌ | ❌ | 
+ | 커플만들기 | ✔️ | ✔️ | ✔️ | ❌ | ❌ | 
 </div></details>
 <br>
 <details>
