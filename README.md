@@ -12,7 +12,7 @@
  | DynamicProgramming | 23 | 22 | 11 | 12 | 22 | 
  | FloydWarshall | 0 | 1 | 0 | 0 | 0 | 
  | Greedy | 10 | 10 | 5 | 8 | 10 | 
- | Implementation | 13 | 12 | 5 | 9 | 13 | 
+ | Implementation | 13 | 13 | 5 | 9 | 13 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
  | MST | 7 | 4 | 3 | 5 | 6 | 
@@ -1115,5 +1115,16 @@ week63_FloydWarshall
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 우주탐사선 | ❌ | ✔️ | ❌ | ❌ | ❌ | 
+</div></details>
+<br>
+<details>
+<summary>
+week63_Implementation
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 새로운게임2 | ❌ | ✔️ | ❌ | ❌ | ❌ | 
 </div></details>
 <br>
