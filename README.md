@@ -3,15 +3,15 @@
 | Algorithm | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | BackTracking | 6 | 6 | 5 | 1 | 6 | 
- | BFS_DFS | 17 | 15 | 5 | 15 | 18 | 
+ | BFS_DFS | 17 | 15 | 6 | 15 | 18 | 
  | BinarySearch | 6 | 6 | 5 | 1 | 6 | 
  | BruteForce | 8 | 8 | 5 | 4 | 8 | 
- | DataStructure | 7 | 5 | 5 | 2 | 7 | 
+ | DataStructure | 7 | 5 | 6 | 2 | 7 | 
  | Dijkstra | 4 | 3 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 24 | 22 | 14 | 14 | 25 | 
  | FloydWarshall | 1 | 1 | 1 | 1 | 1 | 
- | Greedy | 10 | 10 | 5 | 8 | 10 | 
+ | Greedy | 10 | 10 | 6 | 8 | 10 | 
  | Implementation | 14 | 13 | 6 | 10 | 14 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
  | LCA | 0 | 0 | 0 | 0 | 0 | 
@@ -1046,7 +1046,7 @@ week59_DataStructure
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 사촌 | ✔️ | ❌ | ❌ | ✔️ | ✔️ | 
+ | 사촌 | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
@@ -1147,7 +1147,18 @@ week65_BFS_DFS
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 폴더정리small | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+ | 폴더정리small | ❌ | ❌ | ✔️ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week65_Greedy
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 합 | ❌ | ❌ | ✔️ | ❌ | ❌ | 
 </div></details>
 <br>
 <details>
