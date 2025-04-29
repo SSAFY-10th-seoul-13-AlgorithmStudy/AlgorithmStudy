@@ -6,7 +6,7 @@
  | BFS_DFS | 17 | 15 | 5 | 14 | 18 | 
  | BinarySearch | 6 | 6 | 5 | 1 | 6 | 
  | BruteForce | 8 | 8 | 5 | 4 | 8 | 
- | DataStructure | 7 | 5 | 5 | 1 | 7 | 
+ | DataStructure | 7 | 5 | 5 | 2 | 7 | 
  | Dijkstra | 4 | 3 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 24 | 22 | 13 | 12 | 22 | 
@@ -1046,7 +1046,7 @@ week59_DataStructure
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 사촌 | ✔️ | ❌ | ❌ | ❌ | ✔️ | 
+ | 사촌 | ✔️ | ❌ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
