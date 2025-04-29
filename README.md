@@ -9,8 +9,8 @@
  | DataStructure | 7 | 5 | 5 | 2 | 7 | 
  | Dijkstra | 4 | 3 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
- | DynamicProgramming | 24 | 22 | 13 | 14 | 22 | 
- | FloydWarshall | 1 | 1 | 1 | 1 | 0 | 
+ | DynamicProgramming | 24 | 22 | 13 | 14 | 25 | 
+ | FloydWarshall | 1 | 1 | 1 | 1 | 1 | 
  | Greedy | 10 | 10 | 5 | 8 | 10 | 
  | Implementation | 14 | 13 | 6 | 10 | 14 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
@@ -1013,7 +1013,7 @@ week57_DynamicProgramming
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 문자열과점수 | ✔️ | ✔️ | ❌ | ✔️ | ❌ | 
+ | 문자열과점수 | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
@@ -1103,7 +1103,7 @@ week62_DynamicProgramming
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 점수따먹기 | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | 
- | 커플만들기 | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | 
+ | 커플만들기 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 
 </div></details>
 <br>
 <details>
@@ -1148,5 +1148,27 @@ week65_BFS_DFS
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
  | 폴더정리small | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week66_DynamicProgramming
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 펠린드롬공장 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+</div></details>
+<br>
+<details>
+<summary>
+week66_FloydWarshall
+</summary>
+<div markdown="1">
+
+ | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+ | 궁금한민호 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
