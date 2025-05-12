@@ -10,7 +10,7 @@
  | Dijkstra | 4 | 3 | 1 | 3 | 4 | 
  | DivideAndConquer | 0 | 0 | 0 | 0 | 0 | 
  | DynamicProgramming | 24 | 22 | 14 | 14 | 25 | 
- | FloydWarshall | 1 | 1 | 1 | 1 | 2 | 
+ | FloydWarshall | 1 | 2 | 1 | 1 | 2 | 
  | Greedy | 10 | 10 | 6 | 8 | 11 | 
  | Implementation | 14 | 13 | 6 | 10 | 14 | 
  | KMP | 0 | 0 | 0 | 0 | 0 | 
@@ -1180,6 +1180,6 @@ week66_FloydWarshall
 
  | 문제 | 강이규 | 김아린 | 김태수 | 신문영 | 송윤재 | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
- | 궁금한민호 | ❌ | ❌ | ❌ | ❌ | ✔️ | 
+ | 궁금한민호 | ❌ | ✔️ | ❌ | ❌ | ✔️ | 
 </div></details>
 <br>
